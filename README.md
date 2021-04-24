@@ -1,0 +1,2 @@
+# MiniProject
+Smartknower mini project 
